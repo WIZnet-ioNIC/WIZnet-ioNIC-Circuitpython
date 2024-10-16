@@ -67,6 +67,7 @@ To use Wi-Fi and additional functions of W55RP20-EVB-Pico, copy and paste the li
 Examples are available at '[**W55RP20-EVB-Pico-CircuitPython/examples**][link-examples]' directory. As of now, following examples are provided.
 
 - Loopback
+- ping
 
 
 
@@ -83,9 +84,9 @@ Link
 
 [link-w55rp20-evb-pico]: https://docs.wiznet.io/Product/ioNIC/W55RP20/w55rp20-evb-pico
 [link-installing_circuitpython]: https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython
-[link-circuitpy_1]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/static/images/getting_started/circuitpy_1.png
-[link-circuitpy_2]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/static/images/getting_started/circuitpy_2.png
+[link-circuitpy_1]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/blob/main/static/images/getting_started/circuitpy_1.png
+[link-circuitpy_2]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/blob/main/static/images/getting_started/circuitpy_2.png
 [link-blinky_and_a_button]: https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/blinky-and-a-button
-[link-libraries]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/libraries
+[link-libraries]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/tree/main/libraries
 [link-copy_and_paste_library]: 
-[link-examples]: 
+[link-examples]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/tree/main/example

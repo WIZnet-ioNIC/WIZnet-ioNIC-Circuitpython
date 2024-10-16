@@ -58,5 +58,5 @@ Link
 [link-rp2040]: https://www.raspberrypi.org/products/rp2040/
 [link-w5500]: https://docs.wiznet.io/Product/iEthernet/W5500/overview
 [link-w55rp20-evb-pico]: https://docs.wiznet.io/Product/ioNIC/W55RP20/w55rp20-evb-pico
-[link-w55rp20-evb-pico_main]: 
-[link-getting_started]: 
+[link-w55rp20-evb-pico_main]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/blob/main/static/images/w55rp20-evb-pico-main.png
+[link-getting_started]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/blob/main/static/documents/getting_started.md
