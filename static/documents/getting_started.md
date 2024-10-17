@@ -88,5 +88,6 @@ Link
 [link-circuitpy_2]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/blob/main/static/images/getting_started/circuitpy_2.png
 [link-blinky_and_a_button]: https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/blinky-and-a-button
 [link-libraries]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/tree/main/libraries
-[link-copy_and_paste_library]: 
+[link-copy_and_paste_library]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/blob/main/static/images/getting_started/copy_and_paste_library.png
 [link-examples]: https://github.com/WIZnet-ioNIC/WIZnet-ioNIC-Circuitpython/tree/main/example
+
